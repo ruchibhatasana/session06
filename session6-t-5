@@ -1,0 +1,18 @@
+Difference Between Encapsulation and Abstraction
+
+Encapsulation means keeping the data of a class private and accessing it 
+through public methods. It helps to protect the data from direct access.
+
+Example: In Instagram, our password, phone number, and private account 
+information are protected. We cannot directly access or change this data. 
+We use the settings and options provided by Instagram.
+
+Abstraction means hiding the complex working of a system and showing only 
+the important things to the user.
+
+Example: In WhatsApp, when we send a message, we only type the message and 
+click the Send button. We do not need to know how WhatsApp encrypts, processes
+, and delivers the message in the background.
+
+In simple words: Encapsulation protects the data, while abstraction hides the
+complicated working
